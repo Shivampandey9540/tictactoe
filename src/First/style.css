@@ -1,0 +1,16 @@
+body {
+  background-color: #130e0e;
+}
+h1 {
+  color: #ffffff;
+}
+.button {
+  background-color: #25ae60;
+  border: none;
+  color: #ffffff;
+  padding: 15px 30px;
+  text-decoration: none;
+  font-size: 15px;
+  margin-top: 5px;
+  margin-right: 5px;
+}
